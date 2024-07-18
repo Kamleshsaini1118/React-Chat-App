@@ -1,3 +1,3 @@
-# Lama Dev Chat App Starter template
+REACT CHAT APP 
+Based on realtime data 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
